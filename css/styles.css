@@ -1,5 +1,5 @@
 body {
-    background-color: #ececec;
+    background-color: #fef9f8;
   }
   
   .container {
@@ -19,7 +19,7 @@ body {
   }
   
   header {
-  background-color: #363636;
+  background-color: #ef9273;
   }
   
   header::after {
@@ -29,7 +29,7 @@ body {
   }
   
   li a{
-    color: white;
+    color: #0d0d0d;
     text-decoration: none;
     text-transform: uppercase;
     font-family: sans-serif;
