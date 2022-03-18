@@ -8,7 +8,7 @@ body {
   }
   img.me {
     width: 300px;
-    border-radius: 150px;
+    border-radius: 50%;
   }
   
   img.logo {
@@ -58,10 +58,12 @@ body {
 
   p{
     color: #f2f2f2;
+    font-family: 'Fredoka', sans-serif; 
   }
   
   h1, h2, h3, h4, h5, h6{
     color: #f2f2f2;
+    font-family: 'Oswald', sans-serif;
   }
 
   .hero{
