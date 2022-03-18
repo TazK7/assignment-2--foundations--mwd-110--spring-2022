@@ -1,5 +1,5 @@
 body {
-    background-color: #fef9f8;
+    background-color: #2b6777
   }
   
   .container {
@@ -19,7 +19,7 @@ body {
   }
   
   header {
-  background-color: #ef9273;
+  background-color: #c8d8e4;
   }
   
   header::after {
@@ -55,4 +55,22 @@ body {
     margin-left: 70px;
     padding-top: 50px;
   }
+
+  p{
+    color: #f2f2f2;
+  }
   
+  h1, h2, h3, h4, h5, h6{
+    color: #f2f2f2;
+  }
+
+  .hero{
+    position: absolute;
+    background-image: url(../img/heroblue.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover; 
+    height: 100%;
+    margin: 0; 
+    padding: 0;
+  }
