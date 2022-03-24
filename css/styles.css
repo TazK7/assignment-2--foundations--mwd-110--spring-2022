@@ -9,6 +9,8 @@ body {
   img.me {
     width: 300px;
     border-radius: 50%;
+    border: 2px;
+    border-color: white; 
   }
   
   img.logo {
