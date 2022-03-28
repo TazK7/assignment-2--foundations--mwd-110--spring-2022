@@ -1,7 +1,12 @@
-body {
-    background-color: #2b6777
-  }
-  
+html {
+  background-image: url(../img/heroblue.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover; 
+  height: 100%;
+  background-color: #2b6777;
+}
+
   .container {
     width: 80%;
     margin: 0 auto;
@@ -9,8 +14,6 @@ body {
   img.me {
     width: 300px;
     border-radius: 50%;
-    border: 2px;
-    border-color: white; 
   }
   
   img.logo {
@@ -46,6 +49,9 @@ body {
     color: gray;
   
   }
+  a{
+    color: white;
+  }
   nav ul{
     margin: 0;
     padding: 0;
@@ -68,7 +74,7 @@ body {
     font-family: 'Oswald', sans-serif;
   }
 
-  .hero{
+  /*.hero{
     position: absolute;
     background-image: url(../img/heroblue.jpg);
     background-position: center;
